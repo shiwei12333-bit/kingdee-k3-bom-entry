@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
+_k3_shots/
+*.png
+!docs/**/*.png
+
+# 本机标定缓存与私有数据（勿提交）
+skills/k3-bom-grid-entry/scripts/_k3_calib.json
+skills/k3-bom-grid-entry/scripts/data.json
+skills/k3-bom-grid-entry/scripts/data.csv

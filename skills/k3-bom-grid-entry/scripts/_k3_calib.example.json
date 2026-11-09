@@ -1,0 +1,16 @@
+{
+  "X_CODE": 1090,
+  "X_QTY": 1400,
+  "ROW_H": 16,
+  "GRID_TOP": 492,
+  "GRID_BOTTOM": 900,
+  "SCROLL_UP": [1908, 468],
+  "SCROLL_DOWN": [1908, 891],
+  "HSCROLL_LEFT": [987, 908],
+  "HSCROLL_RIGHT_X": 1891,
+  "HSCROLL_Y": 908,
+  "CODE_LEFT": 1043,
+  "QTY_LEFT": 1392,
+  "HSCROLL_RIGHT_STEPS": 1,
+  "note": "960 分屏 + 横拨 1 次 的实测值。设备/分辨率/列宽变化后必须重跑 _k3_fill.py calib 重新生成，勿直接抄。"
+}
