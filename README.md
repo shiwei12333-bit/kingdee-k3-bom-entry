@@ -1,4 +1,4 @@
-# k3-bom-skill
+# kingdee-k3-bom-entry
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -51,7 +51,7 @@ Excel 汇总表  ──►  data.json  ──►  K3 明细表（只填两列）
 ## 安装
 
 ```bash
-git clone https://github.com/<your-account>/k3-bom-skill.git
+git clone https://github.com/shiwei12333-bit/kingdee-k3-bom-entry.git
 cd k3-bom-skill
 pip install pywinauto pywin32 comtypes
 ```
